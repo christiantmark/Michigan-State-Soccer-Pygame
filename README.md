@@ -7,6 +7,7 @@ Controls:
 Player One
  - W,A,S,D to move
  - G to use ability
- Player Two
+ 
+Player Two
  - Up,Down,Left,Right to move
  - CTRL to use ability
